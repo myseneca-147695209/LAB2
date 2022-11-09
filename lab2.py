@@ -10,3 +10,8 @@ print('variable1 = ' + name + ' ' )
 print('variable2 = ' + age + ' ' )
 print('The script and variables used are: ' , str(sys.argv))
 
+ def helloWorld():
+	print(‘Hello World’)
+
+
+helloWorld()
